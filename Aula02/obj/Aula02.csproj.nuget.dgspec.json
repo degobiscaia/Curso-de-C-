@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\INTEL\\Documents\\Curso de C#\\Aula02\\Aula02.csproj": {}
+    "C:\\Users\\INTEL\\Documents\\Estudos\\Curso-de-C#\\Aula02\\Aula02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\INTEL\\Documents\\Curso de C#\\Aula02\\Aula02.csproj": {
+    "C:\\Users\\INTEL\\Documents\\Estudos\\Curso-de-C#\\Aula02\\Aula02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\INTEL\\Documents\\Curso de C#\\Aula02\\Aula02.csproj",
+        "projectUniqueName": "C:\\Users\\INTEL\\Documents\\Estudos\\Curso-de-C#\\Aula02\\Aula02.csproj",
         "projectName": "Aula02",
-        "projectPath": "C:\\Users\\INTEL\\Documents\\Curso de C#\\Aula02\\Aula02.csproj",
+        "projectPath": "C:\\Users\\INTEL\\Documents\\Estudos\\Curso-de-C#\\Aula02\\Aula02.csproj",
         "packagesPath": "C:\\Users\\INTEL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\INTEL\\Documents\\Curso de C#\\Aula02\\obj\\",
+        "outputPath": "C:\\Users\\INTEL\\Documents\\Estudos\\Curso-de-C#\\Aula02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\INTEL\\AppData\\Roaming\\NuGet\\NuGet.Config"
