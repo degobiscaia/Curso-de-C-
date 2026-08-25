@@ -1,5 +1,4 @@
 using System;
-using System.Security.Cryptography.X509Certificates;
 
 //Interface apenas implementa métodos ou protótipos dos métodos, não usa os campos na interfaces apenas a assinatura dos métodos
 
